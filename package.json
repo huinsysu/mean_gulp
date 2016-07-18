@@ -1,0 +1,30 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "a simple chat app using mean and gulp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-livescript": "^3.0.1",
+    "jade": "^1.11.0",
+    "livescript": "^1.5.0",
+    "wrench": "^1.5.9"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-inject": "^4.1.0",
+    "gulp-nodemon": "^2.1.0",
+    "gulp-sass": "^2.3.2",
+    "main-bower-files": "^2.13.1",
+    "wrench": "^1.5.9"
+  }
+}
